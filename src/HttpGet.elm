@@ -1,4 +1,4 @@
-module Main exposing (main)
+module HttpGet exposing (main)
 
 import Browser
 import Html exposing (Html, pre, text)

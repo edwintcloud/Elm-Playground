@@ -1,4 +1,4 @@
-module Main exposing (Model(..), Msg(..), init, main, subscriptions, update, view, viewGif)
+module JsonGet exposing (Model(..), Msg(..), init, main, subscriptions, update, view, viewGif)
 
 import Browser
 import Html exposing (..)
