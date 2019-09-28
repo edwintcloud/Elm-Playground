@@ -2,6 +2,8 @@
 
 Exercises I am doing as I learn Elm through guide.elm-lang.org.
 
+https://edwintcloud.github.io/Elm-Playground/
+
 ### Running the Server
 
 ```bash
